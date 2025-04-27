@@ -8,5 +8,5 @@ Resources:
       InstanceType: t2.micro
       KeyName: aws_ec2_login
       Tags:
-        -Key: "Instance_Name"
-        Value: "sampleInstance"
+        - Key: "Instance_Name"
+          Value: "sampleInstance"
