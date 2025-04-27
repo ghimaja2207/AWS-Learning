@@ -16,7 +16,7 @@ Tags:
 
 **How to Use:**  
 1. In the AWS Console, go to CloudFormation Service.
-2. Click on Create Stacl and upload the template.
+2. Click on Create Stack and upload the template.
 3. Fill the required details.
 4. On clicking Create, monitor the stack creation.
 ![image](https://github.com/user-attachments/assets/e82ffdd9-0c25-4327-adb9-ac4281a84a0d)
